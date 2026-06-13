@@ -1,0 +1,17 @@
+[
+  {"id":"F01","name":"Dr. Ravi Sharma","designation":"HOD","department":"CSE","room":"CS-Office-1","block":"CSE"},
+  {"id":"F02","name":"Prof. Meera Nair","designation":"Professor","department":"AIML","room":"AIML-204","block":"CSE"},
+  {"id":"F03","name":"Prof. Anil Verma","designation":"Professor","department":"ECE","room":"ECE-112","block":"ECE"},
+  {"id":"F04","name":"Dr. Sneha Rao","designation":"Asst. Prof","department":"MECH","room":"MECH-201","block":"MECH"},
+  {"id":"F05","name":"Dr. Sunita Reddy","designation":"HOD","department":"ECE","room":"ECE-HOD","block":"ECE"},
+  {"id":"F06","name":"Prof. Karthik Iyer","designation":"Professor","department":"CIVIL","room":"CIVIL-112","block":"CIVIL"},
+  {"id":"F07","name":"Dr. Priya Singh","designation":"Asst. Prof","department":"CSE","room":"CS-101","block":"CSE"},
+  {"id":"F08","name":"Prof. Nidhi Patel","designation":"Professor","department":"ISE","room":"ISE-204","block":"ISE"},
+  {"id":"F09","name":"Dr. Mohan Das","designation":"Asst. Prof","department":"AIML","room":"ML-Lab-1","block":"CSE"},
+  {"id":"F10","name":"Dr. Alok Mehta","designation":"Professor","department":"MECH","room":"MECH-Workshop","block":"MECH"},
+  {"id":"F11","name":"Prof. Ritu Joshi","designation":"HOD","department":"CIVIL","room":"CIVIL-HOD","block":"CIVIL"},
+  {"id":"F12","name":"Dr. Kiran Chauhan","designation":"Asst. Prof","department":"ECE","room":"ECE-208","block":"ECE"},
+  {"id":"F13","name":"Prof. Maya Prasad","designation":"Professor","department":"CSE","room":"AIML-301","block":"CSE"},
+  {"id":"F14","name":"Dr. Suresh Kulkarni","designation":"Asst. Prof","department":"ISE","room":"ISE-Lab-1","block":"ISE"},
+  {"id":"F15","name":"Prof. Divya Menon","designation":"Professor","department":"AIML","room":"ML-Lab-2","block":"CSE"}
+]

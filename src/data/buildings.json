@@ -1,0 +1,10 @@
+[
+  {"id":"B01","name":"Computer Science Block","shortName":"CSE","floors":3,"description":"Core block for CSE and AIML classrooms, labs, and faculty offices.","svgX":64,"svgY":48,"svgW":120,"svgH":90},
+  {"id":"B02","name":"Electronics & Communication Block","shortName":"ECE","floors":3,"description":"Dedicated building for ECE coursework, labs, and seminar spaces.","svgX":190,"svgY":50,"svgW":110,"svgH":88},
+  {"id":"B03","name":"Mechanical Block","shortName":"MECH","floors":2,"description":"Workshop areas, mechanical labs, and practical training classrooms.","svgX":320,"svgY":52,"svgW":115,"svgH":86},
+  {"id":"B04","name":"Civil Engineering Block","shortName":"CIVIL","floors":2,"description":"Civil engineering lecture halls, seminar rooms, and design studios.","svgX":55,"svgY":170,"svgW":130,"svgH":92},
+  {"id":"B05","name":"Information Science Block","shortName":"ISE","floors":2,"description":"Information Science classrooms, research labs, and study spaces.","svgX":190,"svgY":170,"svgW":108,"svgH":88},
+  {"id":"B06","name":"Administration Building","shortName":"ADMIN","floors":2,"description":"Campus administration, student services, and main auditorium venue.","svgX":320,"svgY":170,"svgW":120,"svgH":90},
+  {"id":"B07","name":"Innovation Center","shortName":"INNOV","floors":2,"description":"Innovation hub for hackathons, cultural events, and student collaborations.","svgX":450,"svgY":52,"svgW":100,"svgH":80},
+  {"id":"B08","name":"Student Services Center","shortName":"SSC","floors":1,"description":"Central support center for counseling, placement, and student activity offices.","svgX":450,"svgY":170,"svgW":98,"svgH":74}
+]

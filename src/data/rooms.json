@@ -1,0 +1,22 @@
+[
+  {"id":"CS-101","name":"CS-101","type":"classroom","block":"CSE","floor":"Ground","capacity":60},
+  {"id":"CS-205","name":"CS-205","type":"classroom","block":"CSE","floor":"1st","capacity":55},
+  {"id":"ML-Lab-1","name":"ML Lab 1","type":"lab","block":"CSE","floor":"2nd","capacity":30},
+  {"id":"ML-Lab-2","name":"ML Lab 2","type":"lab","block":"CSE","floor":"2nd","capacity":28},
+  {"id":"ECE-Seminar-Hall","name":"ECE Seminar Hall","type":"seminar","block":"ECE","floor":"1st","capacity":120},
+  {"id":"ECE-102","name":"ECE-102","type":"classroom","block":"ECE","floor":"Ground","capacity":50},
+  {"id":"ECE-208","name":"ECE-208","type":"classroom","block":"ECE","floor":"2nd","capacity":48},
+  {"id":"MECH-Lab-A","name":"MECH Lab A","type":"lab","block":"MECH","floor":"Ground","capacity":25},
+  {"id":"MECH-Lab-B","name":"MECH Lab B","type":"lab","block":"MECH","floor":"1st","capacity":26},
+  {"id":"MECH-201","name":"MECH-201","type":"classroom","block":"MECH","floor":"1st","capacity":45},
+  {"id":"CIVIL-102","name":"CIVIL-102","type":"classroom","block":"CIVIL","floor":"Ground","capacity":50},
+  {"id":"CIVIL-Seminar-Hall","name":"CIVIL Seminar Hall","type":"seminar","block":"CIVIL","floor":"1st","capacity":100},
+  {"id":"ADMIN-Boardroom","name":"Admin Boardroom","type":"staff","block":"ADMIN","floor":"2nd","capacity":20},
+  {"id":"ADMIN-121","name":"ADMIN-121","type":"staff","block":"ADMIN","floor":"1st","capacity":18},
+  {"id":"CSE-Workshop","name":"CSE Workshop","type":"lab","block":"CSE","floor":"Ground","capacity":32},
+  {"id":"AIML-301","name":"AIML-301","type":"classroom","block":"CSE","floor":"2nd","capacity":40},
+  {"id":"ISE-204","name":"ISE-204","type":"classroom","block":"ISE","floor":"1st","capacity":42},
+  {"id":"ISE-Lab-1","name":"ISE Lab 1","type":"lab","block":"ISE","floor":"2nd","capacity":26},
+  {"id":"ECE-Staff-Office","name":"ECE Staff Office","type":"staff","block":"ECE","floor":"2nd","capacity":12},
+  {"id":"MECH-Seminar-102","name":"MECH Seminar 102","type":"seminar","block":"MECH","floor":"2nd","capacity":90}
+]

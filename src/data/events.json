@@ -1,0 +1,8 @@
+[
+  {"id":"EVT01","title":"AIT Tech Fest","date":"July 12, 2026","time":"10:00 AM","department":"CSE","venue":"CSE Seminar Hall","block":"CSE","type":"fest"},
+  {"id":"EVT02","title":"Hackathon 2026","date":"August 5, 2026","time":"9:00 AM","department":"AIML","venue":"ML Lab 1","block":"CSE","type":"hackathon"},
+  {"id":"EVT03","title":"Fresher Welcome Day","date":"July 20, 2026","time":"4:00 PM","department":"CSE","venue":"Main Auditorium","block":"ADMIN","type":"fresher"},
+  {"id":"EVT04","title":"Cultural Night","date":"September 3, 2026","time":"6:30 PM","department":"CIVIL","venue":"CIVIL Seminar Hall","block":"CIVIL","type":"cultural"},
+  {"id":"EVT05","title":"Robotics Showcase","date":"August 18, 2026","time":"2:00 PM","department":"MECH","venue":"MECH Lab A","block":"MECH","type":"fest"},
+  {"id":"EVT06","title":"Innovation Sprint","date":"August 26, 2026","time":"11:00 AM","department":"ISE","venue":"ISE Lab 1","block":"ISE","type":"hackathon"}
+]
